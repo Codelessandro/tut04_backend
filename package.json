@@ -10,7 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
+    "dom-parser": "^0.1.5",
     "express": "^4.16.4",
-    "referrer-policy": "^1.1.0"
+    "referrer-policy": "^1.1.0",
+    "sync-request": "^6.0.0"
   }
 }
